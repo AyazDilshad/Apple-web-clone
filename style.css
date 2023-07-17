@@ -1,0 +1,454 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main-div {
+    width: 500px;
+    height: 100px;
+    /* background-color: rgba(217, 221, 219, 0.24); */
+}
+
+.nav {
+    /* position: absolute; */
+    /* text-decoration: none; */
+    position: fixed;
+    top: 0;
+    /* margin-bottom: 0; */
+    width: 100%;
+    padding: 12px 12%;
+    background-color: rgba(230, 233, 233, 0.24);
+    /* background-color: transparent; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* z-index: 100; */
+    font-size: small;
+    
+}
+
+.mac-div {
+    /* margin-left: 550px;
+    margin-top: 10px;
+    margin-bottom: 0; */
+    /* text-decoration: none; */
+    background-color: rgba(208, 211, 209, 0.24);
+}
+
+
+
+.heading {
+    font-size: 50px;
+    margin-left: 500px;
+    /* background-position-y: top; */
+}
+
+
+.heading2 {
+    font-size: 25px;
+    margin-left: 500px;
+
+}
+
+.learn {
+    text-decoration: none;
+    color: blue;
+    font-size: 22px;
+    margin-left: 550px;
+}
+
+.buy {
+    text-decoration: none;
+    color: blue;
+    font-size: 22px;
+   
+}
+
+.mac-pic {
+  margin-left: 200px;
+  margin-bottom: 0;
+}
+
+
+
+.Store {
+    text-decoration: none;
+    color: black;
+}
+
+.mac {
+    text-decoration: none;
+    color: black;
+}
+
+.ipad {
+    text-decoration: none;
+    color: black;
+}
+
+.iphone {
+    text-decoration: none;
+    color: black;
+}
+
+.watch {
+    text-decoration: none;
+    color: black;
+}
+
+.vision {
+    text-decoration: none;
+    color: black;
+}
+
+.airpods {
+    text-decoration: none;
+    color: black;
+}
+
+
+.tv {
+    text-decoration: none;
+    color: black;
+}
+
+.ent {
+    text-decoration: none;
+    color: black;
+}
+
+.acc {
+    text-decoration: none;
+    color: black;
+}
+
+.supp {
+    text-decoration: none;
+    color: black;
+}
+
+
+.get-200 {
+    /* block-size: 5px; */
+    text-align: center;
+    padding-bottom: 2%;
+ 
+ }
+ 
+ .shop-i {
+ 
+     text-decoration: none;
+     color: blue;
+ }
+
+
+.save-on {
+    background-color: rgba(208, 211, 209, 0.24);
+
+}
+
+
+.heading3 {
+    margin-left: 500px;
+    font-size: 50px;
+}
+
+.heading4 {
+    margin-left: 550px;
+    font-size: 25px;
+}
+
+.shop {
+    margin-left: 650px;
+    font-size: 25px;
+    text-decoration: none;
+    color: blue;
+}
+
+.college {
+    margin-left: 450px;
+}
+
+.iphone-14pro {
+    block-size: 590px;
+    background-color: black;
+     
+}
+
+.iphone-14pro-pic {
+    margin-left: 250px;
+    
+}
+
+.heading5 {
+    font-size: 40px;
+    color: white;
+    margin-left: 550px;
+}
+
+.heading6 {
+    font-size: 25px;
+    color: white;
+    margin-left: 600px;
+}
+
+.learn2 {
+    font-size: 22px;
+    color: blue;
+    margin-left: 550px;
+    text-decoration: none;
+}
+
+.buy2 {
+    font-size: 22px;
+    color: blue;
+    /* margin-left: 550px; */
+    text-decoration: none;
+}
+
+.d1 {
+    block-size: 500px;
+    /* background-color: brown; */
+    /* margin-bottom: 100px; */
+}
+
+.iphones {
+    background-color: rgb(245, 245, 245);
+
+}
+
+.iphones1 {
+    block-size: 600px;
+    background-color: rgb(237, 238,240);
+}
+
+.wond {
+
+    font-size: 50px;
+    margin-left: 270px;
+}
+
+.wond1 {
+    font-size: 25px;
+    margin-left: 325px;
+}
+
+.learn3 {
+    font-size: 18px;
+    color: blue;
+    margin-left: 280px;
+    text-decoration: none;
+}
+
+.buy3 {
+    font-size: 18px;
+    color: blue;
+    text-decoration: none;
+}
+
+.watch1 {
+    block-size: 600px;
+    background-color: black;
+}
+
+.ipad1 {
+    background-color: black;
+    /* block-size: 300px; */
+}
+
+.watch-text {
+    color: white;
+    font-size: 30px;
+    margin-left: 280px;
+}
+
+.watch-text1 {
+    color: red;
+    font-size: 20px;
+    margin-left: 320px;
+}
+
+.healthy {
+    color: white;
+    font-size: 25px;
+    margin-left: 250px;
+}
+
+.learn4 {
+
+    font-size: 18px;
+    color: blue;
+    margin-left: 280px;
+    text-decoration: none;
+}
+
+.buy4 {
+    font-size: 18px;
+    color: blue;
+    text-decoration: none;
+}
+
+.ipad-text {
+    font-size: 30px;
+    color: white;
+    margin-left: 250px;
+}
+
+.supercharged {
+    font-size: 25px;
+    color: white;
+    margin-left: 230px;
+}
+
+.learn5 {
+    font-size: 18px;
+    color: blue;
+    margin-left: 235px;
+    text-decoration: none;
+}
+
+.buy5 {
+    font-size: 18px;
+    color: blue;
+    text-decoration: none;
+}
+
+.fitness {
+    block-size: 600px;
+    background-color:rgb(237, 238,240);
+}
+
+.fitness-text {
+    color: black;
+    font-size: 30px;
+    /* margin-left: 280px; */
+}
+
+.fit-pic {
+    margin-left: 280px;
+}
+
+.from-hit {
+    margin-left: 300px;
+    font-size: 20px;
+}
+
+.some {
+    font-size: 20px;
+    margin-left: 260px;
+}
+
+.learn6 {
+    font-size: 18px;
+    color: blue;
+    margin-left: 270px;
+    text-decoration: none;
+}
+
+.buy6 {
+    font-size: 18px;
+    color: blue;
+    text-decoration: none;
+}
+
+.Card {
+    background-color: rgb(245, 245, 245);
+}
+
+.card-apple {
+    margin-left: 280px;
+}
+
+.card-text {
+    font-size: 30px;
+}
+
+.cash-back {
+    font-size: 20px;
+    margin-left: 260px;
+}
+
+.purchase {
+    font-size: 20px;
+    margin-left: 300px;
+}
+
+.learn7 {
+    font-size: 18px;
+    color: blue;
+    margin-left: 270px;
+    text-decoration: none;
+}
+
+.buy7 {
+    font-size: 18px;
+    color: blue;
+    /* margin-left: 270px; */
+    text-decoration: none;
+}
+
+.card-pic {
+    margin-left: 70px;
+}
+
+.para-box{
+    box-sizing: border-box 500px;
+    background-color:rgb(237, 238,240) ;
+}
+
+.para{
+    font-size: 14px;
+    color: rgb(138, 136, 136);
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.line{
+    color: rgb(219, 217, 217);
+}
+
+.copy-right{
+    padding-left: 50px;
+    color: grey;
+}
+
+.footer{
+    text-align: center;
+    width: 1350px;
+    background-color: rgb(241, 240, 240);
+    padding-bottom: 20px;
+    /* margin-bottom: 20px; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* margin-left: 200px; */
+}
+
+.privacy{
+    text-decoration: none;
+    color: black;
+}
+
+.terms{
+    text-decoration: none;
+    color: black;
+}
+
+.sales{
+    text-decoration: none;
+    color: black;
+}
+
+.legal{
+    text-decoration: none;
+    color: black;
+}
+
+.site{
+    text-decoration: none;
+    color: black;
+}
+
+.usa{
+    padding-right: 100px;
+}
